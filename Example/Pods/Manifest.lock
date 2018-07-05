@@ -1,0 +1,16 @@
+PODS:
+  - FHXRoutableAssist (0.1.0)
+
+DEPENDENCIES:
+  - FHXRoutableAssist (from `../`)
+
+EXTERNAL SOURCES:
+  FHXRoutableAssist:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FHXRoutableAssist: b6da734c501955bc4690d94241a2ebee44e0eaef
+
+PODFILE CHECKSUM: e964cd353fc2a4c6b76862d7c5f50ba897a2ac77
+
+COCOAPODS: 1.4.0

@@ -1,0 +1,6 @@
+framework module FHXRoutableAssist {
+  umbrella header "FHXRoutableAssist-umbrella.h"
+
+  export *
+  module * { export * }
+}

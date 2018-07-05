@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FHXRoutableAssist_Example' do
+  pod 'FHXRoutableAssist', :path => '../'
+
+  target 'FHXRoutableAssist_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
